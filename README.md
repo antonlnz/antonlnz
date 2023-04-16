@@ -10,7 +10,7 @@
 
 - 👨‍💻 All about me is at [My Website](https://antonlnz.github.io/)
 
-- 📝 Sometimes I write articles on [Medium](https://antonlnz.medium.com/)
+- 📝 Sometimes I write articles on [Medium](https://medium.com/@antonlnz)
 
 - 💬 Ask me about ``` var topics = [ "Java", "JavaScript" ,"HTML", "Python", "CSS", "Deep Learning", "AI" ] ```
 
@@ -20,8 +20,8 @@
 
 
 ### What are my featured projects ? 
-<code>[Telegram Bot](https://github.com/chandrikadeb7/100DaysOfCode)</code>🤖  
-<code>[Web Server](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>🖥️  
+<code>[Telegram Bot]()</code>🤖  
+<code>[Web Server](https://github.com/antonlnz/web-server)</code>🖥️  
 <code>[Web Page](https://antonlnz.github.com/portfolio)</code>👨‍💻  
 
 ### Projects and Dev Stuffs:
