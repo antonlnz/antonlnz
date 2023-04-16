@@ -22,7 +22,7 @@
 ### What are my featured projects ? 
 <code>[Telegram Bot]()</code>🤖  
 <code>[Web Server](https://github.com/antonlnz/web-server)</code>🖥️  
-<code>[Web Page](https://antonlnz.github.com/portfolio)</code>👨‍💻  
+<code>[Web Page](https://antonlnz.github.com)</code>👨‍💻  
 
 ### Projects and Dev Stuffs:
 
