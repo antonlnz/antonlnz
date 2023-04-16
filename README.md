@@ -12,7 +12,7 @@
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@antonlnz)
 
-- 💬 Ask me about ``` var topics = [ "Java", "JavaScript" ,"HTML", "Python", "CSS", "Deep Learning", "AI" ] ```
+- 💬 Ask me about ``` var topics = [ "Java", "JavaScript", "HTML", "Python", "CSS", "Deep Learning", "AI" ] ```
 
 - 📫 How to reach me [**antonlopez2403@gmail.com**](mailto:antonlopez2403@gmail.com)
 
