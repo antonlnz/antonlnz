@@ -4,7 +4,7 @@
 
 ![Banner](./Images/Banners/Banner.png)
 
-<p align="left"> <a href="https://twitter.com/antonlnz" target="blank"><img src="https://img.shields.io/twitter/follow/antonlnz?logo=twitter&style=for-the-badge" alt="antonlnz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/antonlopez2403" target="blank"><img src="https://img.shields.io/twitter/follow/antonlopez2403?logo=twitter&style=for-the-badge" alt="antonlopez2403" /></a> </p>
 
 ### Liked my GitHub ?
 
