@@ -21,10 +21,10 @@
 
 ### What are my featured projects ? 
 <!-- <code>[Telegram Bot]()</code> 🤖  -->
-<code>[Web Server](https://github.com/antonlnz/web-server)</code> 🖥️  
+<code>[Bachelor's Thesis](https://github.com/antonlnz/iter-multi-model-search-chatbot)</code> 🖥️  
 <code>[Web Portfilio](https://github.com/antonlnz/antonlnz.github.io)</code> 👨‍💻  
-<code>[JavaScript Calculator](https://github.com/antonlnz/javascript-calculator)</code>  
-<code>[C Shell](https://github.com/antonlnz/SO-shell)</code>  
+<code>[Lexora](https://github.com/antonlnz/lexora)</code>  
+<code>[C Shell](https://github.com/antonlnz/SO-shell)</code>
 
 ### Projects and Dev Stuffs:
 
